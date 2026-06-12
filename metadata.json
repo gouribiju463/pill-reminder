@@ -1,0 +1,6 @@
+{
+  "name": "Pill Reminder",
+  "description": "A beautiful, modern, and friendly medical tracker and daily pill reminder that aids consistency with dynamic scheduling, history logs, alerts, and streak achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
